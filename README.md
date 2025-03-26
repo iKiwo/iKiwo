@@ -27,3 +27,5 @@ I love learning new things and looking for innovative solutions. My main goal is
 ![Firebase](https://img.shields.io/static/v1?style=for-the-badge&message=Firebase&color=DD2C00&logo=Firebase&logoColor=ffffff&label=)
 ![Jitpack](https://img.shields.io/badge/Jitpack-354a5f?style=for-the-badge&logoColor=ffffff&logo=Jitpack)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logoColor=ffffff&logo=GitHub)
+
+![Profile Visits](https://img.shields.io/endpoint?url=https://yasinkalkan.com/api/githubvisitorstats/track/?user=iKiwo)
