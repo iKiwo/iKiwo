@@ -1,4 +1,4 @@
-# 👋 Hello, I'm iKiwo
+# 👋 Hello, I'm Jose Andrés
 
 I'm a **mobile and web developer** specializing in **Java**, **Kotlin**, and modern web technologies. I'm passionate about creating innovative, functional, and user-friendly applications and solutions. My goal is to continuously grow as a professional, adopt new technologies, and deliver high-quality projects.
 
@@ -43,5 +43,5 @@ I'm a **mobile and web developer** specializing in **Java**, **Kotlin**, and mod
 I strive to stay updated with the latest technological trends, optimize my workflows, and collaborate on projects that make a positive impact. If you have an interesting project or want to collaborate, feel free to reach out!
 
 ## 📫 Connect with Me
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=ffffff&style=for-the-badge) [iKiwo](https://github.com/iKiwo)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=ffffff&style=for-the-badge) [iKiwo](https://github.com/urdaknows)  
 ![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=ffffff&style=for-the-badge) [urdanetapersonal@hotmail.com](mailto:urdanetapersonal@gmail.com)
