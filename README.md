@@ -44,7 +44,4 @@ I strive to stay updated with the latest technological trends, optimize my workf
 
 ## 📫 Connect with Me
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=ffffff&style=for-the-badge) [iKiwo](https://github.com/iKiwo)  
-![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=ffffff&style=for-the-badge) [urdaknows@hotmail.com](mailto:urdaknows@hotmail.com)
-
-## 📊 Stats
-![Profile Visits](https://img.shields.io/endpoint?url=https://yasinkalkan.com/api/githubvisitorstats/track/?user=iKiwo)
+![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=ffffff&style=for-the-badge) [urdaknows@hotmail.com](mailto:urdanetapersonal@gmail.com)
